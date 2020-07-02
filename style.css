@@ -1,0 +1,124 @@
+body{
+    font-family: 'Holtwood One SC', serif;
+    margin: 0em;
+}
+
+.text{
+    height: 500px;
+    padding: 270px;
+}
+.spider-color{
+    color: red;
+}
+.main{
+    float: left;
+    width: 30%;
+    height: 500px;
+    padding-bottom: 300px;
+}
+.main img{
+    width: 100%;
+    margin-top: 155px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( tomato,orange);
+    background-color: rgb(180deg,253, 165, 0);
+    padding: 10px 20px;
+    border-radius: 2px;
+    color: black;
+}
+.top{
+    background-image: url('images/header-bg.png');
+}
+.orange{
+    color: rgb(243, 148, 84);
+}
+.bio{
+    background-image: url('images/biography-bg.png');
+}
+.middle{
+    float: right;
+    width: 40%;
+    height: 500px;
+    padding-bottom: 300px;
+}
+.middle img{
+    width: 100%;
+    margin-top: 15px;
+}
+section{
+    height: 800px;
+    margin-bottom: 80px;
+}
+.mid{
+    height: 400px;
+    padding: 170px;
+}
+.exp{
+    text-align: center;
+}
+.ex{
+    float: left;
+    width: 30%;
+    padding: 5px;
+}
+.ex img{
+    width: 100%;
+}
+.lw{
+    background-image: url('images/latest-work-bg.png');
+    padding: 10%;
+    height: 500px;
+    padding-top: 500px;
+}
+.client{
+    text-align: center;
+    
+}
+.box{
+    text-decoration: none;
+    background-image: linear-gradient( tomato,orange);
+    background-color: rgb(180deg,253, 165, 0);
+    padding: 10px 20px;
+    border-radius: 2px;
+    color: black;
+    margin: 40%;  
+    margin-top: 2%;
+}
+#black{
+    color: black;
+    text-decoration: none;
+}
+.foot{
+    background-image: url('images/footer-bg.png');
+}
+.footer{
+    text-align: center;
+    padding: 0%;
+    margin-top: 0%;
+}
+.full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+.full{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+.last{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.orange{
+    color: rgb(219, 134, 23);
+}
+.nais{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 40%;
+}
